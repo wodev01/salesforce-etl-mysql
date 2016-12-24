@@ -1,0 +1,7 @@
+{
+  "name": "Salesforce ETL MySQL",
+  "description": "Sample Salesforce ETL to MySQL",
+  "repository": "https://github.com/wodev01/salesforce-etl-mysql.git",
+  "keywords": ["node", "salesforce", "etl", "mysql"],
+  "addons": ["cleardb:ignite"]
+}
